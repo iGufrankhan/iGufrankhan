@@ -1,8 +1,11 @@
 <h1 align="center">👋 Hello there! I'm Gufran Khan</h1>
 
-<h3 align="center">
-🎓 Undergraduate Student of Information Technology at BIT Sindri  
+<h3 align="center"> 
+
+<span>🎓 Undergraduate Student of Information Technology at BIT Sindri  </span>
+  
 💻 Passionate about backend engineering, scalable systems, microservices, and distributed computing  
+
 🎬 I enjoy movies, anime, books, and exploring new places
 </h3>
 
