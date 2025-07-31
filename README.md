@@ -1,14 +1,14 @@
 <h1 align="center">👋 Hello there! I'm Gufran Khan</h1>
 
-<h2 align="center"> 
+<h1 align="center"> 
   🎓 I'm an Undergraduate Student of Information Technology at BIT Sindri  
   <br>
   But you’ll find me everywhere with the handle name <b>I_am_BackTrack</b>  
   <br>
   Passionate about tech and always eager to dive in and learn new skills!  
   <br>
-  I enjoy 🎬 movies, 🎌 anime, 📚 books, and 🌍 exploring new places!
-</h2>
+  I enjoy  movies, 🎌 anime, 📚 books, and exploring new places!
+</h1>
 
 ---
 
@@ -32,11 +32,6 @@
   <a href="https://www.linkedin.com/in/gufran-khan-1ba346292/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30" width="40"/>
   </a>&nbsp;&nbsp;&nbsp;
-
-  <a href="https://medium.com/@gufrankhankab123" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968885.png" alt="Medium" height="30" width="40"/>
-  </a>&nbsp;&nbsp;&nbsp;
-
   <a href="https://www.codechef.com/users/codewithgufran" target="_blank">
     <img src="https://cdn.codechef.com/sites/all/themes/abessive/cc-logo.svg" alt="CodeChef" height="30" width="40"/>
   </a>&nbsp;&nbsp;&nbsp;
