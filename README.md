@@ -1,4 +1,6 @@
-                                                                <h1 align="center">  Hello there! I'm Gufran Khan </h1>
+
+  <h1 align="center">  Hello there! I'm Gufran Khan </h1>
+
  
 <p align="center"> 
  <h1> Hi there 👋 </h1>
