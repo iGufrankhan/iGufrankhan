@@ -1,4 +1,4 @@
-<h1 align="center"> Hello there! I'm Gufran Khan</h1>
+                                                                                         <h1 align="center"> ~ Hello there! I'm Gufran Khan ~</h1>
  
 <p align="center"> 
  <h1> Hi there 👋 </h1>
@@ -6,12 +6,12 @@
  But you’ll find me everywhere with the handle name <b style="color:red">I_am BackTrack</b> . 
  Passionate about tech and always eager to dive in and learn new skills!.
 I enjoy  movies,  anime,  books, and  exploring new places!
-<br>
+
+</p>
 
 > 💡 *I'm open to new opportunities in the domain of Machine Learning, Cloud, and Frontend Development*
 
 
-</p>
 ### 🚀 Current Overview
 
 [LeetCode](https://leetcode.com/u/gufrankhan/) &nbsp; | &nbsp; [Codeforces](https://codeforces.com/profile/i_am_backtrack) &nbsp; | &nbsp; [Medium](https://medium.com/@gufrankhankab123)
