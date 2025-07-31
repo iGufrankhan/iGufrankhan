@@ -1,19 +1,15 @@
 <h1 align="center"> Hello there! I'm Gufran Khan</h1>
  
 <p align="center"> 
- <h1> Hi There 👋 </h1>
+ <h1> Hi there 👋 </h1>
 🎓 I'm Gufran Khan  an Undergraduate Student of Information Technology at BIT Sindri,
- But you’ll find me everywhere with the handle name <b style="color:red">I_am_BackTrack</b> . 
+ But you’ll find me everywhere with the handle name <b style="color:red">I_am BackTrack</b> . 
  Passionate about tech and always eager to dive in and learn new skills!.
 I enjoy  movies,  anime,  books, and  exploring new places!
 </p>
 
+> 💡 *I'm open to new opportunities in the domain of Machine Learning, Cloud, and Frontend Development*
 
----
-
-💡 I'm open to new opportunities in the domain of **Machine Learning**, **Cloud**, and **Frontend Development**
-
----
 
 ### 🚀 Current Overview
 
