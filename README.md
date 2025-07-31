@@ -6,6 +6,11 @@
 🎬 I enjoy movies, anime, books, and exploring new places
 </h3>
 
+
+
+---
+
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=igufrankhan&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
   &nbsp;&nbsp;
@@ -13,8 +18,6 @@
     <img src="https://img.shields.io/github/followers/gufrankhan?label=Follow&style=social" alt="GitHub followers" />
   </a>
 </p>
-
----
 
 ### 🚀 Current Overview
 
