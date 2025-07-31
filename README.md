@@ -1,8 +1,9 @@
-<h1 align="center">👋 Hello there! I'm Gufran Khan</h1>
-
+<h1 align="center"> Hello there! I'm Gufran Khan</h1>
+ 
 <p align="center"> 
-🎓 I'm an Undergraduate Student of Information Technology at BIT Sindri  
- But you’ll find me everywhere with the handle name <b>I_am_BackTrack</b> . 
+ <h1> Hi There 👋 <
+🎓 I'm Gufran Khan  an Undergraduate Student of Information Technology at BIT Sindri,
+ But you’ll find me everywhere with the handle name <b style="color:red">I_am_BackTrack</b> . 
  Passionate about tech and always eager to dive in and learn new skills!.
 I enjoy  movies,  anime,  books, and  exploring new places!
 </p>
