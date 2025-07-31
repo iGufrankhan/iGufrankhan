@@ -1,22 +1,28 @@
 <h1 align="center">👋 Hello there! I'm Gufran Khan</h1>
 
 <h2 align="center"> 
-  🎓 Undergraduate Student of Information Technology at BIT Sindri  
+  🎓 I'm an Undergraduate Student of Information Technology at BIT Sindri  
   <br>
-  Passionate about backend engineering, scalable systems, microservices, and distributed computing  
+  But you’ll find me everywhere with the handle name <b>I_am_BackTrack</b>  
   <br>
-  I enjoy movies, anime, books, and exploring new places
+  Passionate about tech and always eager to dive in and learn new skills!  
+  <br>
+  I enjoy 🎬 movies, 🎌 anime, 📚 books, and 🌍 exploring new places!
 </h2>
+
+---
+
+💡 I'm open to new opportunities in the domain of **Machine Learning**, **Cloud**, and **Frontend Development**
 
 ---
 
 ### 🚀 Current Overview
 
-[LeetCode](https://leetcode.com/u/gufrankhan/) &nbsp; | &nbsp; [Codeforces](https://codeforces.com/profile/i_am_backtrack)
+[LeetCode](https://leetcode.com/u/gufrankhan/) &nbsp; | &nbsp; [Codeforces](https://codeforces.com/profile/i_am_backtrack) &nbsp; | &nbsp; [Medium](https://medium.com/@gufrankhankab123)
 
-- 🌱 I’m currently learning **JavaScript** and **AWS**  
-- 📝 I regularly write articles on [Medium](https://medium.com/@gufrankhankab123)  
-- 🛠️ I’m working on improving my **DSA** and **competitive concepts**
+- 🌱 I’m currently learning **JavaScript** and **AWS**
+- 📝 I regularly write articles on [Medium](https://medium.com/@gufrankhankab123)
+- 🛠️ I’m improving my **DSA** and **Competitive Programming Skills**
 
 ---
 
@@ -50,11 +56,11 @@
 
 ---
 
-### 🔥 LIVE Projects
+### 🔥 Live Project
 
-| Project Name             | Description                                                        | Tech Stack            | Live Demo                              |
-|--------------------------|--------------------------------------------------------------------|------------------------|----------------------------------------|
-| **Book Recommender App** | A personalized book recommendation system with a Read List feature | Streamlit, MongoDB     | [Live Demo](https://your-streamlit-link.com) |
+| Project Name             | Description                                                        | Tech Stack            | Live Demo |
+|--------------------------|--------------------------------------------------------------------|------------------------|-----------|
+| **Book Recommender App** | A personalized book recommendation system with a Read List feature | Streamlit, MongoDB     | [Live Demo](https://bookrecommendersystem-hkrgvy42xwtruiw9siq5b9.streamlit.app/) |
 
 ---
 
@@ -90,4 +96,5 @@
 
 ---
 
-⭐️ **[Star this repository](https://github.com/iGufrankhan/iGufrankhan)** if you find it inspiring!
+⭐️ **[Star this repository](https://github.com/iGufrankhan/iGufrankhan)** if you find it inspiring and helpful!
+
