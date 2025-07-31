@@ -15,6 +15,9 @@
 - 🌱 I’m currently learning **JavaScript** and **AWS**
 - 📝 I regularly write articles on [Medium](https://medium.com/@gufrankhankab123)
 - 🛠️ I’m working on improving my **DSA** and **competitive concepts**
+- 💻 Practicing on:  
+  - [LeetCode](https://leetcode.com/u/gufrankhan/)  
+  - [Codeforces](https://codeforces.com/profile/i_am_backtrack)
 
 ---
 
@@ -22,27 +25,27 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/gufran-khan-1ba346292/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg" alt="LinkedIn" height="30" width="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30" width="40"/>
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
 
   <a href="https://medium.com/@gufrankhankab123" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/medium.svg" alt="Medium" height="30" width="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/medium/medium-original.svg" alt="Medium" height="30" width="40"/>
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
 
   <a href="https://www.codechef.com/users/codewithgufran" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/codechef.svg" alt="CodeChef" height="30" width="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codechef/codechef-original.svg" alt="CodeChef" height="30" width="40"/>
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
 
   <a href="https://codeforces.com/profile/i_am_backtrack" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/codeforces.svg" alt="Codeforces" height="30" width="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeforces/codeforces-original.svg" alt="Codeforces" height="30" width="40"/>
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
 
   <a href="https://leetcode.com/u/gufrankhan/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/leetcode.svg" alt="LeetCode" height="30" width="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" height="30" width="40"/>
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
 
   <a href="https://www.geeksforgeeks.org/user/kakababawa0p92/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/geeksforgeeks.svg" alt="GeeksforGeeks" height="30" width="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" alt="GeeksforGeeks" height="30" width="40"/>
   </a>
 </p>
 
@@ -50,8 +53,8 @@
 
 ### 🔥 LIVE Projects
 
-| Project Name           | Description                                                        | Tech Stack            | Live Demo                              |
-|------------------------|--------------------------------------------------------------------|------------------------|----------------------------------------|
+| Project Name             | Description                                                        | Tech Stack            | Live Demo                              |
+|--------------------------|--------------------------------------------------------------------|------------------------|----------------------------------------|
 | **Book Recommender App** | A personalized book recommendation system with a Read List feature | Streamlit, MongoDB     | [Live Demo](https://your-streamlit-link.com) |
 
 ---
@@ -78,16 +81,3 @@
   <a href="https://www.selenium.dev" target="_blank"><img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="Selenium" width="40" height="40"/></a>&nbsp;&nbsp;
   <a href="https://www.tensorflow.org" target="_blank"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/></a>
 </p>
-
----
-
-### 📊 GitHub Overview
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=igufrankhan&show_icons=true&locale=en&layout=compact" alt="Top Languages" />&nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api?username=igufrankhan&show_icons=true&locale=en" alt="GitHub Stats" />
-</p>
-
----
-
-⭐️ **[Star this repository](https://github.com/iGufrankhan/iGufrankhan/edit/main/README.md)** if you find it inspiring!
