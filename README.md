@@ -19,7 +19,7 @@ I enjoy  movies,  anime,  books, and  exploring new places!
 
  &nbsp; [LeetCode](https://leetcode.com/u/I_am_BackTrack/) &nbsp; | &nbsp; [Codeforces](https://codeforces.com/profile/i_am_backtrack) &nbsp; | &nbsp; [Medium](https://medium.com/@gufrankhankab123)
 
-- 🌱 I’m currently learning **JavaScript** and **AWS**
+- 🌱 I’m currently learning **Backend** and **Deep Learning**
 - 📝 I regularly write articles on [Medium](https://medium.com/@gufrankhankab123)
 - 🛠️ I’m improving my **DSA** and **Competitive Programming Skills**
 
