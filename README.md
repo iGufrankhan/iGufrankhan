@@ -1,66 +1,73 @@
-
-  <h1 align="center">  Hello there! I'm Gufran Khan </h1>
-
- 
-<p align="center"> 
- <h1> Hi there 👋 </h1>
-🎓 I'm Gufran Khan  an Undergraduate Student of Information Technology at BIT Sindri,
- But you’ll find me everywhere with the handle name <b style="color:red">I_am BackTrack</b> . 
- Passionate about tech and always eager to dive in and learn new skills!.
-I enjoy  movies,  anime,  books, and  exploring new places!
-<br>
-  <br>
-</p>
-
-> 💡 *I'm open to new opportunities in the domain of Machine Learning, Cloud, and Frontend Development*
-
-
-### 🚀 Current Overview
-
- &nbsp; [LeetCode](https://leetcode.com/u/I_am_BackTrack/) &nbsp; | &nbsp; [Codeforces](https://codeforces.com/profile/i_am_backtrack) &nbsp; | &nbsp; [Medium](https://medium.com/@gufrankhankab123)
-
-- 🌱 I’m currently learning **Backend** and **Deep Learning**
-- 📝 I regularly write articles on [Medium](https://medium.com/@gufrankhankab123)
-- 🛠️ I’m improving my **DSA** and **Competitive Programming Skills**
-
----
-
-### 🤝 Connect with Me
+# Hi there 👋 I'm Gufran Khan
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/gufran-khan-1ba346292/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30" width="40"/>
-  </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.codechef.com/users/codewithgufran" target="_blank">
-    <img src="https://cdn.codechef.com/sites/all/themes/abessive/cc-logo.svg" alt="CodeChef" height="30" width="40"/>
-  </a>&nbsp;&nbsp;&nbsp;
-
-  <a href="https://codeforces.com/profile/i_am_backtrack" target="_blank">
-    <img src="https://sta.codeforces.com/s/20457/images/codeforces-logo-with-telegram.png" alt="Codeforces" height="30" width="40"/>
-  </a>&nbsp;&nbsp;&nbsp;
-
-  <a href="https://leetcode.com/u/I_am_BackTrack/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" height="30" width="40"/>
-  </a>&nbsp;&nbsp;&nbsp;
-
-  <a href="https://www.geeksforgeeks.org/user/kakababawa0p92/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" alt="GeeksforGeeks" height="30" width="40"/>
+  <a href="https://portfolio-phow.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_Portfolio-Visit_Now-blue?style=for-the-badge" alt="Portfolio"/>
   </a>
 </p>
 
----
+🎓 I'm Gufran Khan, an Undergraduate Student of Information Technology at BIT Sindri.  
+But you'll find me everywhere with the handle name **I_am_BackTrack**.  
+Passionate about tech and always eager to dive in and learn new skills!  
+I enjoy 🎬 movies, 📺 anime, 📚 books, and ✈️ exploring new places!
 
-### 🔥 Live Project
-| Project Name             | Description                                                                 | Tech Stack                            | Live Demo |
-|---------------------------|------------------------------------------------------------------------------|----------------------------------------|-----------|
-| **📚 Book Recommender App** | A personalized book recommendation system with a Read List feature           | Streamlit, MongoDB                     | <a href="https://bookrecommendersystem-hkrgvy42xwtruiw9siq5b9.streamlit.app/"><img src="https://img.shields.io/badge/Live%20App-Open%20Now-brightgreen?style=for-the-badge&logo=streamlit" alt="Book Recommender App"></a> |
-| **🎬 VidStream**          | A powerful cloud-based platform to upload, explore, and download videos     | Next.js 14, TypeScript, Clerk, TailwindCSS, Cloudinary | <a href="https://cloudinary-saas-app-chi.vercel.app/"><img src="https://img.shields.io/badge/Live%20App-Open%20Now-green?style=for-the-badge&logo=vercel" alt="VidStream App"></a> |
-| **🩺 Diabetes Prediction Model** | A machine learning–based diabetes risk prediction system with a clean interactive UI | Python, Flask, scikit-learn | <a href="https://diabetes-prediction-model-mauve.vercel.app/"><img src="https://img.shields.io/badge/Live%20App-Open%20Now-brightgreen?style=for-the-badge" alt="Diabetes Prediction App"></a> |
-
+> 💡 *I'm open to new opportunities in the domain of Machine Learning, Cloud, and Frontend Development*
 
 ---
 
-### 🛠️ My Tech Stack
+## 🚀 Current Overview
+
+🔗 [LeetCode](https://leetcode.com/u/I_am_BackTrack/) | [Codeforces](https://codeforces.com/profile/i_am_backtrack) | [Medium](https://medium.com/@gufrankhankab123)
+
+- 🌱 I'm currently learning **Backend** and **Deep Learning**
+- 📝 I regularly write articles on [Medium](https://medium.com/@gufrankhankab123)
+- 🛠️ I'm improving my **DSA** and **Competitive Programming Skills**
+
+---
+
+## 🤝 Connect with Me
+
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/gufran-khan-1ba346292/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" width="40"/>
+  </a>&nbsp;&nbsp;&nbsp;
+
+  <a href="https://www.codechef.com/users/codewithgufran" target="_blank">
+    <img src="https://cdn.codechef.com/sites/all/themes/abessive/cc-logo.svg" height="30" width="40"/>
+  </a>&nbsp;&nbsp;&nbsp;
+
+  <a href="https://codeforces.com/profile/i_am_backtrack" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/Codeforces_logo.svg" height="30" width="40"/>
+  </a>&nbsp;&nbsp;&nbsp;
+
+  <a href="https://leetcode.com/u/I_am_BackTrack/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" height="30" width="40"/>
+  </a>&nbsp;&nbsp;&nbsp;
+
+  <a href="https://www.geeksforgeeks.org/user/kakababawa0p92/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" height="30" width="40"/>
+  </a>
+</p>
+
+
+---
+
+
+---
+
+## 🔥 Live Projects
+
+| Project Name | Description | Tech Stack | Live Demo |
+|--------------|-------------|------------|-----------|
+
+| **📚 Book Recommender App** | A personalized book recommendation system with a Read List feature | Streamlit, MongoDB | <a href="https://bookrecommendersystem-hkrgvy42xwtruiw9siq5b9.streamlit.app/"><img src="https://img.shields.io/badge/Live%20App-Open%20Now-brightgreen?style=for-the-badge&logo=streamlit" alt="Book Recommender App"></a> |
+| **🎬 VidStream** | A powerful cloud-based platform to upload, explore, and download videos | Next.js 14, TypeScript, Clerk, TailwindCSS, Cloudinary | <a href="https://cloudinary-saas-app-chi.vercel.app/"><img src="https://img.shields.io/badge/Live%20App-Open%20Now-green?style=for-the-badge&logo=vercel" alt="VidStream App"></a> |
+| **🩺 Diabetes Prediction Model** | A machine learning-based diabetes risk prediction system with a clean interactive UI | Python, Flask, scikit-learn | <a href="https://diabetes-prediction-model-mauve.vercel.app/"><img src="https://img.shields.io/badge/Live%20App-Open%20Now-brightgreen?style=for-the-badge" alt="Diabetes Prediction App"></a> |
+
+---
+
+## 🛠️ My Tech Stack
 
 <p align="center">
   <a href="https://aws.amazon.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/></a>&nbsp;&nbsp;
@@ -83,14 +90,17 @@ I enjoy  movies,  anime,  books, and  exploring new places!
 
 ---
 
-### 📊 GitHub Overview
+## 📊 GitHub Overview
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=igufrankhan&show_icons=true&locale=en&layout=compact" alt="Top Languages" />&nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api?username=igufrankhan&show_icons=true&locale=en" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=iGufrankhan&layout=compact&theme=tokyonight" alt="Top languages" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=iGufrankhan&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
 ---
 
-⭐️ **[Star this repository](https://github.com/iGufrankhan/iGufrankhan)** if you find it inspiring and helpful!
-
+<p align="center">
+  <i>⭐️ From <a href="https://github.com/igufrankhan">igufrankhan</a> | Let's connect and build something amazing together!</i>
+</p>
