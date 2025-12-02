@@ -6,11 +6,13 @@
   </a>
 </p>
 
-🎓 I'm Gufran Khan, an Undergraduate Student of Information Technology at BIT Sindri.  
-But you'll find me everywhere with the handle name **I_am_BackTrack**.  
-Passionate about tech and always eager to dive in and learn new skills!  
-I enjoy 🎬 movies, 📺 anime, 📚 books, and ✈️ exploring new places!
+### 👋 Hi, I'm **Gufran Khan**
 
+IT Undergrad @ **BIT Sindri** • Known online as **I_am_BackTrack**
+
+🚀 Exploring **Machine Learning**, **Deep Learning**, and **Backend Development**  
+🎬 Movies • 📺 Anime • 📚 Books • ✈️ Travel  
+💡 Always learning, building, and open to new opportunities!
 > 💡 *I'm open to new opportunities in the domain of Machine Learning, Cloud, and Frontend Development*
 
 ---
@@ -37,9 +39,11 @@ I enjoy 🎬 movies, 📺 anime, 📚 books, and ✈️ exploring new places!
     <img src="https://cdn.codechef.com/sites/all/themes/abessive/cc-logo.svg" height="30" width="40"/>
   </a>&nbsp;&nbsp;&nbsp;
 
-  <a href="https://codeforces.com/profile/i_am_backtrack" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/Codeforces_logo.svg" height="30" width="40"/>
-  </a>&nbsp;&nbsp;&nbsp;
+ <a href="https://codeforces.com/profile/i_am_backtrack" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" 
+       alt="Codeforces" height="30" width="40"/>
+</a>
+
 
   <a href="https://leetcode.com/u/I_am_BackTrack/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" height="30" width="40"/>
@@ -60,10 +64,10 @@ I enjoy 🎬 movies, 📺 anime, 📚 books, and ✈️ exploring new places!
 
 | Project Name | Description | Tech Stack | Live Demo |
 |--------------|-------------|------------|-----------|
-
 | **📚 Book Recommender App** | A personalized book recommendation system with a Read List feature | Streamlit, MongoDB | <a href="https://bookrecommendersystem-hkrgvy42xwtruiw9siq5b9.streamlit.app/"><img src="https://img.shields.io/badge/Live%20App-Open%20Now-brightgreen?style=for-the-badge&logo=streamlit" alt="Book Recommender App"></a> |
 | **🎬 VidStream** | A powerful cloud-based platform to upload, explore, and download videos | Next.js 14, TypeScript, Clerk, TailwindCSS, Cloudinary | <a href="https://cloudinary-saas-app-chi.vercel.app/"><img src="https://img.shields.io/badge/Live%20App-Open%20Now-green?style=for-the-badge&logo=vercel" alt="VidStream App"></a> |
 | **🩺 Diabetes Prediction Model** | A machine learning-based diabetes risk prediction system with a clean interactive UI | Python, Flask, scikit-learn | <a href="https://diabetes-prediction-model-mauve.vercel.app/"><img src="https://img.shields.io/badge/Live%20App-Open%20Now-brightgreen?style=for-the-badge" alt="Diabetes Prediction App"></a> |
+
 
 ---
 
