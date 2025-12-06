@@ -66,7 +66,7 @@ IT Undergrad @ **BIT Sindri** • Known online as **I_am_BackTrack**
 |--------------|-------------|------------|-----------|
 | **📚 Book Recommender App** | A personalized book recommendation system with a Read List feature | Streamlit, MongoDB | <a href="https://bookrecommendersystem-hkrgvy42xwtruiw9siq5b9.streamlit.app/"><img src="https://img.shields.io/badge/Live%20App-Open%20Now-brightgreen?style=for-the-badge&logo=streamlit" alt="Book Recommender App"></a> |
 | **🎬 VidStream** | A powerful cloud-based platform to upload, explore, and download videos | Next.js 14, TypeScript, Clerk, TailwindCSS, Cloudinary | <a href="https://cloudinary-saas-app-chi.vercel.app/"><img src="https://img.shields.io/badge/Live%20App-Open%20Now-green?style=for-the-badge&logo=vercel" alt="VidStream App"></a> |
-| **🩺 Diabetes Prediction Model** | A machine learning-based diabetes risk prediction system with a clean interactive UI | Python, Flask, scikit-learn | <a href="https://diabetes-prediction-model-mauve.vercel.app/"><img src="https://img.shields.io/badge/Live%20App-Open%20Now-brightgreen?style=for-the-badge" alt="Diabetes Prediction App"></a> |
+
 
 
 ---
