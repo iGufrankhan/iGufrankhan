@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Gufran Khan
+ # Hi there 👋 I'm Gufran Khan
 
 <p align="center">
   <a href="https://portfolio-phow.vercel.app/" target="_blank">
