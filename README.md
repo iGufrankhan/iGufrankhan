@@ -8,7 +8,7 @@
 
 ### 👋 Hi, I'm **Gufran Khan**
 
-IT Undergrad @ **BIT Sindri** • Known online as **I_am_BackTrack**
+IT Undergrad  • Known online as **I_am_BackTrack**
 
 🚀 Exploring **Machine Learning**, **Deep Learning**, and **Backend Development**  
 🎬 Movies • 📺 Anime • 📚 Books • ✈️ Travel  
