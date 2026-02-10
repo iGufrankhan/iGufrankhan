@@ -1,10 +1,3 @@
- # Hi there 👋 I'm Gufran Khan
-
-<p align="center">
-  <a href="https://portfolio-phow.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/🌐_Portfolio-Visit_Now-blue?style=for-the-badge" alt="Portfolio"/>
-  </a>
-</p>
 
 ### 👋 Hi, I'm **Gufran Khan**
 
