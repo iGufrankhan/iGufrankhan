@@ -50,7 +50,7 @@ Known online as **I_am_BackTrack**
 
 | Project Name | Description | Tech Stack | Live Demo |
 |--------------|-------------|------------|-----------|
-| **🎟️ Distributed Ticket Booking System** | Production-ready backend for movie ticket booking with real-time seat locking, async payments, and admin dashboards | Node.js, Express, MongoDB, Redis, BullMQ | <a href="https://distributed-ticket-booking-system-api.onrender.com"><img src="https://img.shields.io/badge/Live%20API-Try%20Now-blueviolet?style=for-the-badge&logo=render" alt="Distributed Ticket Booking System"></a> |
+| **🎟️ Distributed Ticket Booking System** | Production-ready backend for movie ticket booking with real-time seat locking, async payments, and admin dashboards | Node.js, Express, MongoDB, Redis, BullMQ | <a href="https://distributed-ticket-booking-system-1.onrender.com/"><img src="https://img.shields.io/badge/Live%20API-Try%20Now-blueviolet?style=for-the-badge&logo=render" alt="Distributed Ticket Booking System"></a> |
 | **🎬 VidStream** | Cloud-based platform to upload, explore, and download videos | Next.js 14, TypeScript, Clerk, TailwindCSS, Cloudinary | <a href="https://cloudinary-saas-app-chi.vercel.app/"><img src="https://img.shields.io/badge/Live%20App-Open%20Now-green?style=for-the-badge&logo=vercel" alt="VidStream App"></a> |
 | **📚 Book Recommender App** | Personalized book recommendation system with Read List feature | Streamlit, MongoDB, ML | <a href="https://bookrecommendersystem-hkrgvy42xwtruiw9siq5b9.streamlit.app/"><img src="https://img.shields.io/badge/Live%20App-Open%20Now-brightgreen?style=for-the-badge&logo=streamlit" alt="Book Recommender App"></a> |
 
