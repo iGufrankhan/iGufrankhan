@@ -24,26 +24,15 @@ Known online as **I_am_BackTrack**
 ## 🤝 Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/gufran-khan-1ba346292/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" width="40" alt="LinkedIn"/>
-  </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://leetcode.com/u/I_am_BackTrack/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" height="30" width="40" alt="LeetCode"/>
-  </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://codeforces.com/profile/i_am_backtrack" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" height="30" width="40" alt="Codeforces"/>
-  </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.codechef.com/users/codewithgufran" target="_blank">
-    <img src="https://cdn.codechef.com/sites/all/themes/abessive/cc-logo.svg" height="30" width="40" alt="CodeChef"/>
-  </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.geeksforgeeks.org/user/kakababawa0p92/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" height="30" width="40" alt="GeeksforGeeks"/>
-  </a>&nbsp;&nbsp;&nbsp;
- <a href="https://medium.com/@gufrankhankab123" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/medium.svg" height="30" width="40" alt="Medium"/>
-  </a>
-</p>
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gufran-khan-1ba346292/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/u/I_am_BackTrack/)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=flat&logo=codeforces&logoColor=white)](https://codeforces.com/profile/i_am_backtrack)
+[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=flat&logo=codechef&logoColor=white)](https://www.codechef.com/users/codewithgufran)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=flat&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/kakababawa0p92/)
+[![Medium](https://img.shields.io/badge/Medium-000000?style=flat&logo=medium&logoColor=white)](https://medium.com/@gufrankhankab123)
+
+</p>
 ---
 
 ## 🔥 Live Projects
