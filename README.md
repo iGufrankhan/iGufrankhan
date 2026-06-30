@@ -1,5 +1,4 @@
 ### 👋 Hi, I'm **Gufran Khan**
-
 **IT Undergrad** • **Backend Developer** • **ML Enthusiast**  
 Known online as **I_am_BackTrack**
 
@@ -7,7 +6,6 @@ Known online as **I_am_BackTrack**
 🎯 Passionate about solving real-world problems with code
 
 > 💼 **Open to opportunities in Backend Development, Machine Learning, and Cloud Computing**
-
 
 🎬 Movies • 📺 Anime • 📚 Books • ✈️ Travel
 
@@ -33,12 +31,14 @@ Known online as **I_am_BackTrack**
 [![Medium](https://img.shields.io/badge/Medium-000000?style=flat&logo=medium&logoColor=white)](https://medium.com/@gufrankhankab123)
 
 </p>
+
 ---
 
 ## 🔥 Live Projects
 
 | Project Name | Description | Tech Stack | Live Demo |
 |--------------|-------------|------------|-----------|
+| **🤖 Interview Coach AI** | High-concurrency LLM platform managing 100+ stateful user sessions, with a persistent-memory architecture cutting prompt tokens/redundant queries by 30% and a FAISS-based RAG pipeline for resume parsing, speeding up interview prep by 50% | FastAPI, LangChain, FAISS, RAG | <a href="https://interviewcoach-ai-frontend-1wbx.vercel.app/dashboard"><img src="https://img.shields.io/badge/Live%20App-Open%20Now-blueviolet?style=for-the-badge&logo=vercel" alt="Interview Coach AI"></a> |
 | **🎟️ Distributed Ticket Booking System** | Production-ready backend for movie ticket booking with real-time seat locking, async payments, and admin dashboards | Node.js, Express, MongoDB, Redis, BullMQ | <a href="https://distributed-ticket-booking-system-1.onrender.com/"><img src="https://img.shields.io/badge/Live%20API-Try%20Now-blueviolet?style=for-the-badge&logo=render" alt="Distributed Ticket Booking System"></a> |
 | **🎬 VidStream** | Cloud-based platform to upload, explore, and download videos | Next.js 14, TypeScript, Clerk, TailwindCSS, Cloudinary | <a href="https://cloudinary-saas-app-chi.vercel.app/"><img src="https://img.shields.io/badge/Live%20App-Open%20Now-green?style=for-the-badge&logo=vercel" alt="VidStream App"></a> |
 | **📚 Book Recommender App** | Personalized book recommendation system with Read List feature | Streamlit, MongoDB, ML | <a href="https://bookrecommendersystem-hkrgvy42xwtruiw9siq5b9.streamlit.app/"><img src="https://img.shields.io/badge/Live%20App-Open%20Now-brightgreen?style=for-the-badge&logo=streamlit" alt="Book Recommender App"></a> |
@@ -47,9 +47,9 @@ Known online as **I_am_BackTrack**
 
 ## 🏆 Competitive Programming
 
-- 🥇 **LeetCode:** Max Rating **1757** — [Profile](https://leetcode.com/u/I_am_BackTrack/)
-- 🥈 **Codeforces:** Max Rating **1339** (Pupil) | Rank **3391** in Round 1040 — [Profile](https://codeforces.com/profile/i_am_backtrack)
-- 🥉 **CodeChef:** Max Rating **1649** (3⭐) | Global Rank **128** in Starters 180 — [Profile](https://www.codechef.com/users/codewithgufran)
+- 🥇 **LeetCode:** Max Rating **1932** (Knight) | World Top 3% — [Profile](https://leetcode.com/u/I_am_BackTrack/)
+- 🥈 **Codeforces:** Max Rating **1465** (Specialist) | Rank **3391** in Round 1040 — [Profile](https://codeforces.com/profile/i_am_backtrack)
+- 🥉 **CodeChef:** Max Rating **1702** (3⭐) | Global Rank **128** in Starters 180 — [Profile](https://www.codechef.com/users/codewithgufran)
 
 ---
 
@@ -68,4 +68,3 @@ Known online as **I_am_BackTrack**
 <p align="center">
   <i>⭐️ From <a href="https://github.com/igufrankhan">igufrankhan</a> | Let's connect and build something amazing together!</i>
 </p>
-
