@@ -48,8 +48,8 @@ Known online as **I_am_BackTrack**
 ## 🏆 Competitive Programming
 
 - 🥇 **LeetCode:** Max Rating **1932** (Knight) | World Top 3% — [Profile](https://leetcode.com/u/I_am_BackTrack/)
-- 🥈 **Codeforces:** Max Rating **1465** (Specialist) | Rank **3391** in Round 1040 — [Profile](https://codeforces.com/profile/i_am_backtrack)
-- 🥉 **CodeChef:** Max Rating **1702** (3⭐) | Global Rank **128** in Starters 180 — [Profile](https://www.codechef.com/users/codewithgufran)
+- 🥈 **Codeforces:** Max Rating **1419** (Specialist) | Rank **3391** in Round 1040 — [Profile](https://codeforces.com/profile/i_am_backtrack)
+- 🥉 **CodeChef:** Max Rating **1732** (3⭐) | Global Rank **128** in Starters 180 — [Profile](https://www.codechef.com/users/codewithgufran)
 
 ---
 
